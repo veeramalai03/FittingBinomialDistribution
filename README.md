@@ -1,4 +1,6 @@
-# Fitting Binomial Distribution
+## Ex no: 1
+## Date: 30/3/2022
+# <p align="center">Fitting binomial Distribution</p>
 
 # Aim : 
 
